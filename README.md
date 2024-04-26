@@ -1,7 +1,3 @@
-Claro, aqui está uma sugestão revisada para o seu README.md:
-
----
-
 ### Olá, eu sou o Fábio! 👋
 
 🚀 **Sobre Mim:**
